@@ -1,5 +1,6 @@
-## Dhanglerson Barral!
-   Programador Front-End!
+## Olá Devs!
+
+   Me chamo Dhanglerson Barral, sou um Programador Front-End, atualmente trabalho  com HTML, CSS, JavaScript e iniciando o aprendizado de React.
 
  <div>
    <a href="https://github.com/Barral13">
