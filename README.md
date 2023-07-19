@@ -8,7 +8,7 @@
 
  <div>
    <a href="https://github.com/Barral13">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barral13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   [![Dhanglerson stats](https://github-readme-stats.vercel.app/api?username=Barral13)](https://github.com/anuraghazra/github-readme-stats)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barral13&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
       
