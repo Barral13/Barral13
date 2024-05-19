@@ -1,6 +1,6 @@
 ## Olá Devs!
 
-   Me chamo Dhanglerson Barral, sou um Programador Front-End, atualmente trabalho com:
+   Dhanglerson Barral, sou um Programador .NET Full Stack, atualmente trabalho com:
    - <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 
    - <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
    - <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
@@ -15,6 +15,6 @@
  ##
 
  <div>
-    <a href="https://www.linkedin.com/in/dhanglerson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="[https://www.linkedin.com/in/dhanglerson/](https://www.linkedin.com/in/dhanglerson-dev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/barral_dhanglerson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
