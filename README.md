@@ -1,6 +1,4 @@
 ## Olá Devs!
-
-   Sou Dhanglerson Barral, Desenvolvedor Web!
    <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barral13&layout=compact&langs_count=6&theme=tokyonight"/>   
  <br>
  
